@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Gurgaon, India
 * ✉️  You can contact me at [harshit886@outlook.com](mailto:harshit886@outlook.com)
 * 🧠  I'm learning web3 , solidity
-* https://harshitsinha.vercel.app/
+* Website - https://harshitsinha.vercel.app/
 
 <a href="https://www.twitter.com/imhs24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/imhs24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
